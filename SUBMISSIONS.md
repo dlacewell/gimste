@@ -1,4 +1,4 @@
-We will be using git to manage the balningau process. This will allow us a lot
+TESTWe will be using git to manage the balningau process. This will allow us a lot
 of control over how changes are organized, reviewed, and finally merged/commited
 as accepted changes.
 
